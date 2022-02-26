@@ -1,0 +1,1 @@
+class KrawedzJuzIstniejeException extends RuntimeException {}
